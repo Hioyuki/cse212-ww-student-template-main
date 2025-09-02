@@ -1,0 +1,15 @@
+/Users/shimadahiroyuki/Desktop/cse212-ww-student-template-main/cse212-ww-student-template-main/sandbox/sandbox_project/bin/Debug/net8.0/sandbox_project
+/Users/shimadahiroyuki/Desktop/cse212-ww-student-template-main/cse212-ww-student-template-main/sandbox/sandbox_project/bin/Debug/net8.0/sandbox_project.deps.json
+/Users/shimadahiroyuki/Desktop/cse212-ww-student-template-main/cse212-ww-student-template-main/sandbox/sandbox_project/bin/Debug/net8.0/sandbox_project.runtimeconfig.json
+/Users/shimadahiroyuki/Desktop/cse212-ww-student-template-main/cse212-ww-student-template-main/sandbox/sandbox_project/bin/Debug/net8.0/sandbox_project.dll
+/Users/shimadahiroyuki/Desktop/cse212-ww-student-template-main/cse212-ww-student-template-main/sandbox/sandbox_project/bin/Debug/net8.0/sandbox_project.pdb
+/Users/shimadahiroyuki/Desktop/cse212-ww-student-template-main/cse212-ww-student-template-main/sandbox/sandbox_project/obj/Debug/net8.0/sandbox_project.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shimadahiroyuki/Desktop/cse212-ww-student-template-main/cse212-ww-student-template-main/sandbox/sandbox_project/obj/Debug/net8.0/sandbox_project.AssemblyInfoInputs.cache
+/Users/shimadahiroyuki/Desktop/cse212-ww-student-template-main/cse212-ww-student-template-main/sandbox/sandbox_project/obj/Debug/net8.0/sandbox_project.AssemblyInfo.cs
+/Users/shimadahiroyuki/Desktop/cse212-ww-student-template-main/cse212-ww-student-template-main/sandbox/sandbox_project/obj/Debug/net8.0/sandbox_project.csproj.CoreCompileInputs.cache
+/Users/shimadahiroyuki/Desktop/cse212-ww-student-template-main/cse212-ww-student-template-main/sandbox/sandbox_project/obj/Debug/net8.0/sandbox_project.sourcelink.json
+/Users/shimadahiroyuki/Desktop/cse212-ww-student-template-main/cse212-ww-student-template-main/sandbox/sandbox_project/obj/Debug/net8.0/sandbox_project.dll
+/Users/shimadahiroyuki/Desktop/cse212-ww-student-template-main/cse212-ww-student-template-main/sandbox/sandbox_project/obj/Debug/net8.0/refint/sandbox_project.dll
+/Users/shimadahiroyuki/Desktop/cse212-ww-student-template-main/cse212-ww-student-template-main/sandbox/sandbox_project/obj/Debug/net8.0/sandbox_project.pdb
+/Users/shimadahiroyuki/Desktop/cse212-ww-student-template-main/cse212-ww-student-template-main/sandbox/sandbox_project/obj/Debug/net8.0/sandbox_project.genruntimeconfig.cache
+/Users/shimadahiroyuki/Desktop/cse212-ww-student-template-main/cse212-ww-student-template-main/sandbox/sandbox_project/obj/Debug/net8.0/ref/sandbox_project.dll
