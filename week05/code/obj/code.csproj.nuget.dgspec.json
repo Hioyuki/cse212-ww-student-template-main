@@ -1,0 +1,81 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/shimadahiroyuki/Desktop/cse212-ww-student-template-main/cse212-ww-student-template-main/week05/code/code.csproj": {}
+  },
+  "projects": {
+    "/Users/shimadahiroyuki/Desktop/cse212-ww-student-template-main/cse212-ww-student-template-main/week05/code/code.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/shimadahiroyuki/Desktop/cse212-ww-student-template-main/cse212-ww-student-template-main/week05/code/code.csproj",
+        "projectName": "code",
+        "projectPath": "/Users/shimadahiroyuki/Desktop/cse212-ww-student-template-main/cse212-ww-student-template-main/week05/code/code.csproj",
+        "packagesPath": "/Users/shimadahiroyuki/.nuget/packages/",
+        "outputPath": "/Users/shimadahiroyuki/Desktop/cse212-ww-student-template-main/cse212-ww-student-template-main/week05/code/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/shimadahiroyuki/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[3.0.4, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[3.0.4, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.6.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.304/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
