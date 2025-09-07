@@ -1,0 +1,15 @@
+/Users/shimadahiroyuki/Desktop/cse212-ww-student-template-main/week02/analyze/bin/Debug/net8.0/analyze
+/Users/shimadahiroyuki/Desktop/cse212-ww-student-template-main/week02/analyze/bin/Debug/net8.0/analyze.deps.json
+/Users/shimadahiroyuki/Desktop/cse212-ww-student-template-main/week02/analyze/bin/Debug/net8.0/analyze.runtimeconfig.json
+/Users/shimadahiroyuki/Desktop/cse212-ww-student-template-main/week02/analyze/bin/Debug/net8.0/analyze.dll
+/Users/shimadahiroyuki/Desktop/cse212-ww-student-template-main/week02/analyze/bin/Debug/net8.0/analyze.pdb
+/Users/shimadahiroyuki/Desktop/cse212-ww-student-template-main/week02/analyze/obj/Debug/net8.0/analyze.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shimadahiroyuki/Desktop/cse212-ww-student-template-main/week02/analyze/obj/Debug/net8.0/analyze.AssemblyInfoInputs.cache
+/Users/shimadahiroyuki/Desktop/cse212-ww-student-template-main/week02/analyze/obj/Debug/net8.0/analyze.AssemblyInfo.cs
+/Users/shimadahiroyuki/Desktop/cse212-ww-student-template-main/week02/analyze/obj/Debug/net8.0/analyze.csproj.CoreCompileInputs.cache
+/Users/shimadahiroyuki/Desktop/cse212-ww-student-template-main/week02/analyze/obj/Debug/net8.0/analyze.sourcelink.json
+/Users/shimadahiroyuki/Desktop/cse212-ww-student-template-main/week02/analyze/obj/Debug/net8.0/analyze.dll
+/Users/shimadahiroyuki/Desktop/cse212-ww-student-template-main/week02/analyze/obj/Debug/net8.0/refint/analyze.dll
+/Users/shimadahiroyuki/Desktop/cse212-ww-student-template-main/week02/analyze/obj/Debug/net8.0/analyze.pdb
+/Users/shimadahiroyuki/Desktop/cse212-ww-student-template-main/week02/analyze/obj/Debug/net8.0/analyze.genruntimeconfig.cache
+/Users/shimadahiroyuki/Desktop/cse212-ww-student-template-main/week02/analyze/obj/Debug/net8.0/ref/analyze.dll

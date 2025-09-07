@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "52vdGwujMms=",
+  "dgSpecHash": "yj1a8TWajic=",
   "success": true,
-  "projectFilePath": "/Users/shimadahiroyuki/Desktop/cse212-ww-student-template-main/cse212-ww-student-template-main/week06/code/code.csproj",
+  "projectFilePath": "/Users/shimadahiroyuki/Desktop/cse212-ww-student-template-main/week06/code/code.csproj",
   "expectedPackageFiles": [
     "/Users/shimadahiroyuki/.nuget/packages/microsoft.codecoverage/17.6.0/microsoft.codecoverage.17.6.0.nupkg.sha512",
     "/Users/shimadahiroyuki/.nuget/packages/microsoft.net.test.sdk/17.6.0/microsoft.net.test.sdk.17.6.0.nupkg.sha512",

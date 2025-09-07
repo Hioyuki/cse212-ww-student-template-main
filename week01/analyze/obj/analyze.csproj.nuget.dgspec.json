@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/shimadahiroyuki/Desktop/cse212-ww-student-template-main/cse212-ww-student-template-main/week01/analyze/analyze.csproj": {}
+    "/Users/shimadahiroyuki/Desktop/cse212-ww-student-template-main/week01/analyze/analyze.csproj": {}
   },
   "projects": {
-    "/Users/shimadahiroyuki/Desktop/cse212-ww-student-template-main/cse212-ww-student-template-main/week01/analyze/analyze.csproj": {
+    "/Users/shimadahiroyuki/Desktop/cse212-ww-student-template-main/week01/analyze/analyze.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/shimadahiroyuki/Desktop/cse212-ww-student-template-main/cse212-ww-student-template-main/week01/analyze/analyze.csproj",
+        "projectUniqueName": "/Users/shimadahiroyuki/Desktop/cse212-ww-student-template-main/week01/analyze/analyze.csproj",
         "projectName": "analyze",
-        "projectPath": "/Users/shimadahiroyuki/Desktop/cse212-ww-student-template-main/cse212-ww-student-template-main/week01/analyze/analyze.csproj",
+        "projectPath": "/Users/shimadahiroyuki/Desktop/cse212-ww-student-template-main/week01/analyze/analyze.csproj",
         "packagesPath": "/Users/shimadahiroyuki/.nuget/packages/",
-        "outputPath": "/Users/shimadahiroyuki/Desktop/cse212-ww-student-template-main/cse212-ww-student-template-main/week01/analyze/obj/",
+        "outputPath": "/Users/shimadahiroyuki/Desktop/cse212-ww-student-template-main/week01/analyze/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/shimadahiroyuki/.nuget/NuGet/NuGet.Config"
