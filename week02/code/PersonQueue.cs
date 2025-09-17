@@ -1,3 +1,5 @@
+// PersonQueue.cs
+
 /// <summary>
 /// A basic implementation of a Queue
 /// </summary>
@@ -8,12 +10,15 @@ public class PersonQueue
     public int Length => _queue.Count;
 
     /// <summary>
-    /// Add a person to the queue
+    /// Add a new value to the queue with an associated priority.  The
+    /// node is always added to the back of the queue regardless of 
+    /// the priority.
     /// </summary>
-    /// <param name="person">The person to add</param>
+    /// <param name="value">The value</param>
+    /// <param name="priority">The priority</param>
     public void Enqueue(Person person)
     {
-        _queue.Insert(0, person);
+        _queue.Add(person); // 修正箇所：末尾に追加する
     }
 
     public Person Dequeue()
