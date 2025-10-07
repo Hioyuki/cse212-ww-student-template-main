@@ -280,7 +280,7 @@ public class MazeTests
         catch (Exception e)
         {
             Assert.Fail(
-                 string.Format("Unexpected exception of type {0} caught: {1}",
+                string.Format("Unexpected exception of type {0} caught: {1}",
                                 e.GetType(), e.Message)
             );
         }
